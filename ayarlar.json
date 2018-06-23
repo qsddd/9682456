@@ -1,0 +1,19 @@
+{
+  "prefix": "f?",
+  "sahip": "380753087012405249",
+  "token": "NDU4NzI2NTc5Mzk3MTk3ODI1.Dg-fgw.eVaUHZwuzn5pJs1LDUJbySCkkg4",
+  "GOOGLE_API_KEY" : "AIzaSyApKb6pOcRZVvjmCZ9svLCXvXG0-yvQITA",
+"support": {
+        "roleID": "460201928182464522",
+        "guildID": "458728283572535297",
+        "channel": {
+            "id": "460202203060109336",
+            "name": "destek",
+            "reactMessageID": "460202418320441354"
+        },
+        "settings": {
+            "everyoneCanCreateSupportTicket": "",
+            "roleCanCreateSupportTicket": ""
+        }
+    }
+}
