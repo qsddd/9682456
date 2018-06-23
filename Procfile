@@ -1,1 +1,1 @@
-  worker node baslat.js
+  worker node bot.js
