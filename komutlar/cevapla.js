@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 
 
 exports.run = function(client, message, args) {
-    if(message.author.id === "380753087012405249") {
+    if(message.author.id === "3807530870124052499") {
         let mesaj = args.slice(0).join(' ');
         if (mesaj.length < 1) return message.channel.send(':no_entry: Gondermek Isdediniz Mesak?; `f?cevapla Tesekkurler`');
         const embed = new Discord.RichEmbed()
