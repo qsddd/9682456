@@ -9,7 +9,7 @@ exports.run = function(client, message, args) {
         .setColor('RANDOM')
         .setDescription('')
         .setFooter('Fredux Tavsiye Cevaplama')
-        client.author.send("451318607767535626").send(embed);
+        message.channel.send(embed)
     } else {
         message.channel.send(':no_entry: Bu Komut Developer Kodudur.');
     }
